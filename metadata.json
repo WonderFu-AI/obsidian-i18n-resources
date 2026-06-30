@@ -1,1 +1,28 @@
-[]
+[
+    {
+        "id": "w4uygI1v_SxFW0EpNW64lC6u_dfeic4k",
+        "plugin": "image-converter",
+        "type": "plugin",
+        "language": "zh-cn",
+        "version": "1.0.0",
+        "supported_versions": "1.4.4",
+        "title": "Image Converter",
+        "description": "Image Converter Localization & Tweaks",
+        "hash": "7875b46b7875b46b7875b46b7875b46b",
+        "created_at": "2026-06-30T08:54:58.587Z",
+        "updated_at": "2026-06-30T08:54:58.587Z"
+    },
+    {
+        "id": "bmok13pA1W-9BNFiTU8HCkPRxRTRgFWj",
+        "plugin": "obsidian-local-images-plus",
+        "type": "plugin",
+        "language": "zh-cn",
+        "version": "1.0.0",
+        "supported_versions": "0.16.4",
+        "title": "Local Images Plus",
+        "description": "Local Images Plus Localization & Tweaks",
+        "hash": "03de232b03de232b03de232b03de232b",
+        "created_at": "2026-06-30T08:54:58.582Z",
+        "updated_at": "2026-06-30T08:54:58.582Z"
+    }
+]
